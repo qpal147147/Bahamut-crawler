@@ -11,3 +11,7 @@ pip install beautifulsoup4
 ```bash
 pip install lxml
 ```
+
+## 功能
+* 搜尋指定作者
+* 搜尋指定內容
